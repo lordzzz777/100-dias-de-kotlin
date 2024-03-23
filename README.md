@@ -1,4 +1,5 @@
 # Bienvenidos a los 100 días de Kotlin
+![qoo dias Kotlin2](https://github.com/lordzzz777/100-dias-de-kotlin/assets/114311106/612f16ea-43b3-48f4-bf29-be924580cb09)
 
 # Cómo Participar
 Lista de YouTube: Puedes utilizar la lista de reproducción de Aristidev en [Youtube](https://www.youtube.com/playlist?list=PL8ie04dqq7_OcBYDpvHrcSFVoggLi3cm_).
