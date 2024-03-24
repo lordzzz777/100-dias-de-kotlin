@@ -1,5 +1,5 @@
 # Bienvenidos a los 100 días de Kotlin
-![readmeKotlin](https://github.com/lordzzz777/100-dias-de-kotlin/assets/114311106/0820f0a0-b6b7-404b-b07c-20e34e034ec0)
+![Fondos100DiasKotlin](https://github.com/lordzzz777/100-dias-de-kotlin/assets/114311106/6413e00e-f6ee-4150-93cd-fd71ae29269f)
 
 # Cómo Participar
 Lista de YouTube: Puedes utilizar la lista de reproducción de Aristidev en [Youtube](https://www.youtube.com/playlist?list=PL8ie04dqq7_OcBYDpvHrcSFVoggLi3cm_).
