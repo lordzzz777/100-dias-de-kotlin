@@ -1,5 +1,5 @@
 
-// Tipo Basico
+// Tipo Basico (en el buscador Spell)
 
 /*
 En Kotlin, todo es un objeto en el sentido de que puedes llamar a las funciones
